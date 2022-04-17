@@ -1,4 +1,4 @@
-# day-1-vue
+# Designspiration | Christina Michelaitsch
 
 ## Project setup
 ```
